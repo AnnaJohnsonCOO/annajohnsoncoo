@@ -14,7 +14,7 @@ I specialize in building CRM-powered growth systems, directing multi-channel cam
 - ⚙️ [Keychain AI: CRM Automation & Funnel Build](https://github.com/AnnaJohnsonCOO/keychain-crm-automation))
 - 🎯 [UAF Photo Lab:- UAF Growth Strategy – $220K MRR ](https://github.com/annajohnsoncoo/uaf-growth-strategy)
 - 🎥 [CMT Music Video Production](https://www.youtube.com/watch?v=mO4a1PCdDqQ&ab_channel=AngieK)
-- 🌐 [Just BE Case Studies](https://github.com/AnnaJohnsonCOO/uaf-growth-strategy)
+- 🌐 [Just BE Case Studies](https://github.com/AnnaJohnsonCOO/just-be-case-studies)
 
 ---
 
