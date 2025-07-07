@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Anna 👋  
+Strategic Marketing & Ops Leader | Creative Director | Growth Strategist
 
-<!--
-**AnnaJohnsonCOO/annajohnsoncoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building CRM-powered growth systems, directing multi-channel campaigns, and aligning creative vision with operational clarity.
 
-Here are some ideas to get you started:
+🔹 Scaled startups to $50K+ MRR in 90 days  
+🔹 Led e-commerce and global brand strategy to $220K MRR  
+🔹 Directed influencer programs, trade shows, and production teams  
+🔹 CRM automation: GoHighLevel, HubSpot, Make (Integromat), BrightLocal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects & Highlights
+
+- 📂 [Portfolio PDF](https://www.canva.com/design/DAGsJpOLiks/UQOTUlSFAfpIoA_Bvpb9Pg/view?utm_content=DAGsJpOLiks&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf426294386)
+- ⚙️ [Keychain AI: CRM Automation & Funnel Build](#)
+- 🎯 [UAF Photo Lab: Scaling Strategy + Influencer Program](#)
+- 🎥 [CMT Music Video Production (Watch here)]((https://www.youtube.com/watch?v=mO4a1PCdDqQ&ab_channel=AngieK))
+- 🌐 [Selected Websites & Brand Launches](#)
+
+---
+
+💼 [LinkedIn](https://linkedin.com/in/annajohnsonsd) | 📫 annajohnsondesign@gmail.com
